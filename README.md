@@ -1,4 +1,4 @@
-![xzec](https://i.imgur.com/DBvGhJw.gif)
+![xzec](https://i.imgur.com/HTkLb9L.gif)
 
 <!--
 **xzec/xzec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
